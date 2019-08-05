@@ -8,8 +8,8 @@ spring:
     name: item-service
       
     
-server:
-  port: 8001
+#server:
+#  port: 8001
 eureka:
   client:
     service-url:
